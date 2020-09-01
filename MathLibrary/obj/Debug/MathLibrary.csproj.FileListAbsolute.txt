@@ -1,0 +1,6 @@
+C:\Users\oliva\source\repos\CalcLibrary\MathLibrary\bin\Debug\MathLibrary.dll
+C:\Users\oliva\source\repos\CalcLibrary\MathLibrary\bin\Debug\MathLibrary.pdb
+C:\Users\oliva\source\repos\CalcLibrary\MathLibrary\obj\Debug\MathLibrary.csprojAssemblyReference.cache
+C:\Users\oliva\source\repos\CalcLibrary\MathLibrary\obj\Debug\MathLibrary.csproj.CoreCompileInputs.cache
+C:\Users\oliva\source\repos\CalcLibrary\MathLibrary\obj\Debug\MathLibrary.dll
+C:\Users\oliva\source\repos\CalcLibrary\MathLibrary\obj\Debug\MathLibrary.pdb
